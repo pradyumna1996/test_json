@@ -4,7 +4,7 @@
 "people_quar":456,
 "totaliso_beds":799,
 "confirm_people":899,
-"people_dangerzone":1000,
+"people_dangerzone":100
 
     },
     {
@@ -12,7 +12,7 @@
         "people_quar":456,
         "totaliso_beds":799,
         "confirm_people":899,
-        "people_dangerzone":1000,
+        "people_dangerzone":1000
         
     },
     {
@@ -20,7 +20,7 @@
 "people_quar":456,
 "totaliso_beds":799,
 "confirm_people":899,
-"people_dangerzone":1000,
+"people_dangerzone":1000
 
     },
     {
@@ -28,7 +28,7 @@
 "people_quar":456,
 "totaliso_beds":799,
 "confirm_people":899,
-"people_dangerzone":1000,
+"people_dangerzone":1000
 
     },
     {
@@ -36,7 +36,7 @@
         "people_quar":456,
         "totaliso_beds":799,
         "confirm_people":899,
-        "people_dangerzone":1000,
+        "people_dangerzone":1000
       
     },
     {
@@ -44,7 +44,7 @@
         "people_quar":456,
         "totaliso_beds":799,
         "confirm_people":899,
-        "people_dangerzone":1000,
+        "people_dangerzone":1000
        
     },
     {
@@ -52,7 +52,7 @@
         "people_quar":456,
         "totaliso_beds":799,
         "confirm_people":899,
-        "people_dangerzone":1000,
+        "people_dangerzone":1000
        
     }
 ]
