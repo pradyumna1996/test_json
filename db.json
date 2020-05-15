@@ -1,65 +1,58 @@
 [
     {
-        "pradesh_name":"Pradesh 1",
 "total_quarbeds":123,
 "people_quar":456,
 "totaliso_beds":799,
 "confirm_people":899,
 "people_dangerzone":1000,
-"people_isolation":2000
+
     },
     {
-        "pradesh_name":"Pradesh 2",
         "total_quarbeds":123,
         "people_quar":456,
         "totaliso_beds":799,
         "confirm_people":899,
         "people_dangerzone":1000,
-        "people_isolation":2000
+        
     },
     {
-        "pradesh_name":"Pradesh 3",
-"total_quarbeds":123,
+       "total_quarbeds":123,
 "people_quar":456,
 "totaliso_beds":799,
 "confirm_people":899,
 "people_dangerzone":1000,
-"people_isolation":2000
+
     },
     {
-        "pradesh_name":"Pradesh 4",
-"total_quarbeds":123,
+      "total_quarbeds":123,
 "people_quar":456,
 "totaliso_beds":799,
 "confirm_people":899,
 "people_dangerzone":1000,
-"people_isolation":2000
+
     },
     {
-        "pradesh_name":"Pradesh 5",
-        "total_quarbeds":123,
+                "total_quarbeds":123,
         "people_quar":456,
         "totaliso_beds":799,
         "confirm_people":899,
         "people_dangerzone":1000,
-        "people_isolation":2000
+      
     },
     {
-        "pradesh_name":"Pradesh 6",
-        "total_quarbeds":123,
+               "total_quarbeds":123,
         "people_quar":456,
         "totaliso_beds":799,
         "confirm_people":899,
         "people_dangerzone":1000,
-        "people_isolation":2000
+       
     },
     {
-        "pradesh_name":"Pradesh 7",
-        "total_quarbeds":123,
+               "total_quarbeds":123,
         "people_quar":456,
         "totaliso_beds":799,
         "confirm_people":899,
         "people_dangerzone":1000,
-        "people_isolation":2000
+       
     }
 ]
